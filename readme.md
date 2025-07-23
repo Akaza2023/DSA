@@ -7,6 +7,7 @@ This repository is dedicated to **daily Data Structures and Algorithms (DSA)** l
 - Improve problem-solving skills
 - Prepare for coding interviews
 - Build consistency through daily practice
+- We will be using the striver's sheet and post that myb the neet code 150 to practice
 
 ## Structure
 
